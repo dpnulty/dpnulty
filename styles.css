@@ -1,0 +1,56 @@
+/* Add some CSS styling for a polished look */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+header {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+section {
+    margin: 20px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+h1, h2 {
+    color: #333;
+}
+ul {
+    list-style: none;
+    padding: 0;
+}
+li::before {
+    content: "\2022"; /* Add bullet points */
+    color: #333;
+    font-weight: bold;
+    display: inline-block;
+    width: 1em;
+    margin-left: -1em;
+}
+/*
+   Daniel Nulty's Personal Website: A Creative Hobby Project for 2023
+
+   This is Daniel Nulty's personal website, crafted as a creative hobby in 2023. 
+   It serves as a platform for my various interests, including my thoughts, projects, and more.
+   Feel free to explore and enjoy the content!
+
+   Copyright (C) 2023  Daniel Nulty
+
+   This website is free software: you can explore and interact with it under the terms of the GNU General Public License 
+   as published by the Free Software Foundation, either version 3 of the License, or
+   (at your option) any later version.
+
+   This website is distributed in the hope that it will be informative and enjoyable,
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+   GNU General Public License for more details.
+
+   You should have received a copy of the GNU General Public License
+   along with this website. If not, see <https://www.gnu.org/licenses/>.
+*/
