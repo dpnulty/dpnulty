@@ -31,10 +31,12 @@ Within my repository, you'll uncover a diverse collection of projects deeply int
 
 ## Contact
 
-You can reach me at dpnulty94@gmail.com or connect with me on social media:
+You can reach out to me through [email](mailto:dpnulty94@gmail.com) or connect on social platforms:
 
 - Twitter: [@dpnulty94](https://twitter.com/dpnulty94)
 - LinkedIn: [Daniel Nulty](https://www.linkedin.com/in/daniel-nulty/)
+
+Feel free to reach out to me through email.
 
 ## Connecting
 
